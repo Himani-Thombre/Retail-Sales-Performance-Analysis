@@ -24,7 +24,7 @@ The dataset was cleaned and validated by handling:
 - Data-quality issues
 
 📊 Dashboard
-
+![Retail Sales Performance Dashboard](retail_sales_dashboard.png)
 The final dashboard includes:
 
 - Monthly Revenue Trend
