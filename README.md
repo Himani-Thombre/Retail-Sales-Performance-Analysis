@@ -23,6 +23,12 @@ The dataset was cleaned and validated by handling:
 - Date inconsistencies
 - Data-quality issues
 
+🔄 Project Journey
+This project follows a complete data analytics workflow:
+**Raw Data → Data Cleaning → Data Validation → PivotTable Analysis → KPI Analysis → Data Visualization → Dashboard → Business Insights**
+![Data Cleaning](data-cleaning.png)
+![PivotTable Analysis](pivot-analysis.png)
+
 📊 Dashboard
 ![Retail Sales Performance Dashboard](retail_sales_dashboard.png)
 The final dashboard includes:
