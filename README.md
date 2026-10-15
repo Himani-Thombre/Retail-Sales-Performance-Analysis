@@ -30,7 +30,7 @@ This project follows a complete data analytics workflow:
 ![PivotTable Analysis](pivot-analysis.png)
 
 📊 Dashboard
-![Retail Sales Performance Dashboard](retail_sales_dashboard.png)
+![Retail Sales Performance Dashboard](retail_sales_dashboard.png.png)
 The final dashboard includes:
 
 - Monthly Revenue Trend
