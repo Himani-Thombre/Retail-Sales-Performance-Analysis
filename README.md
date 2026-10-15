@@ -26,8 +26,8 @@ The dataset was cleaned and validated by handling:
 🔄 Project Journey
 This project follows a complete data analytics workflow:
 **Raw Data → Data Cleaning → Data Validation → PivotTable Analysis → KPI Analysis → Data Visualization → Dashboard → Business Insights**
-![Data Cleaning](CleanData.png)
-![PivotTable Analysis](PivotTable.png)
+![Data Cleaning](Clean_Data.png)
+![PivotTable Analysis](Pivot_Table.png)
 
 📊 Dashboard
 ![Retail Sales Performance Dashboard](retail_sales_dashboard.png.png)
